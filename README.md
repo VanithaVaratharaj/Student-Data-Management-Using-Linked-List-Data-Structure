@@ -1,6 +1,6 @@
 # Student Record Management System
 
-A simple **Student Record Management System written in C** using a **singly linked list**. The project provides a menu-driven command-line interface for adding, deleting, displaying, modifying, sorting, reversing, saving, and deleting student records.
+A simple Student Record Management using linked list Data Structure. The project provides a menu-driven command-line interface for adding, deleting, displaying, modifying, sorting, reversing, saving, and deleting student records.
 
 ## Features
 
@@ -19,8 +19,6 @@ A simple **Student Record Management System written in C** using a **singly link
 - Modular implementation using separate `.c` source files
 
 ## Data Structure
-
-The project uses a **singly linked list** to store student records.
 
 Each student contains:
 
